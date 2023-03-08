@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -d -l . manual manual/chap1
+ls -l chap1 .profile -a
