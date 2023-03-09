@@ -1,4 +1,4 @@
 #!/bin/bash
 0	SCHOOL School data l:mime school.mgc
 Exit vi
-filw -c -m school.mgc
+file -c -m school.mgc
