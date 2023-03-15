@@ -1,2 +1,2 @@
-#!/bin/nash
+#!/bin/bash
 sort | uniq -u
